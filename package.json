@@ -1,7 +1,7 @@
 {
   "name": "@XSabyr/ui-kit-test-lib",
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com/XSabyr"
+    "@XSabyr:registry": "https://npm.pkg.github.com"
   },
   "version": "0.0.1",
   "description": "",
